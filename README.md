@@ -1,3 +1,3 @@
 # Open Data a verejná správa na Slovensku {#open-data-a-verejn-spr-va-na-slovensku}
 
-This file serves as your book&#039;s preface, a great place to describe your book&#039;s content and ideas.
+[Open Data and public administration in Slovakia] Ako otvoriť dáta a dosiahnuť modernú a otvorenú verejnú správu na Slovensku?
